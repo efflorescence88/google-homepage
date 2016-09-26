@@ -1,0 +1,89 @@
+.viewport{
+	width: 1680px;
+	height: 863px;
+
+}
+
+.topNAV{
+	background-color: yell;
+	width: 1680px;
+	height: 30px;
+}
+.topNAV ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+.topNAV li {
+   float: right;
+}
+.topNAV a {
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+.google-image{
+	background-color: green;
+	width: 1680px;
+	height: 201px;
+}
+#googlelogo{
+	background-image: url(images/googlelogo_color_272x92dp.png);
+	background-size: 272px 92px;
+	height: 92px;
+	width: 272px;
+	margin: auto;
+    position: relative;
+    top: 110px;
+}
+.searchform {
+	background-color: purple;
+	width: 1680px;
+	height: 128px;
+}
+.searchbox input {
+	width: 526px;
+	height: 26px;
+}
+.botNAV {
+	width: 1707px;
+	height: 40px;
+}
+}
+#botNAVleft ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+#botNAVleft li {
+   float: left;
+}
+#botNAVleft a {
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#botNAVright ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+#botNAVright li {
+   float: right;
+}
+#botNAVright a {
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
