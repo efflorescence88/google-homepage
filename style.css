@@ -42,6 +42,7 @@
     top: 110px;
 }
 .searchform {
+	text-align: center;
 	background-color: purple;
 	width: 1680px;
 	height: 128px;
@@ -49,6 +50,7 @@
 .searchbox input {
 	width: 526px;
 	height: 26px;
+}
 }
 .botNAV {
 	width: 1707px;
